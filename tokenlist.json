@@ -1,0 +1,26 @@
+{
+  "name": "USDT.z Token List",
+  "timestamp": "2026-06-05T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/mcmcrypto/tokenzed20hub/main/logo.svg",
+  "keywords": [
+    "usdt",
+    "bridge",
+    "zed20",
+    "ethereum"
+  ],
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x8990c14a5fd51d0B1B92ca8c9a8d9b82b7857Ec2",
+      "name": "Tether USD Bridged ZED20",
+      "symbol": "USDT.z",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mcmcrypto/tokenzed20hub/main/logo.svg"
+    }
+  ]
+}
